@@ -3,7 +3,6 @@ name: Engineering Fundamentals Checklist
 about: Engineering Fundamentals Checklist for TechLead
 title: 'Engineering Fundamentals Checklist'
 labels: Process, Pri1
-assignees: ''
 
 ---
 # Tech Lead's Engineering Fundamentals Checklist
